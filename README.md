@@ -18,8 +18,8 @@
 </p>
 
 - 🔭 I’m currently trying to develop a plugin to enhance the editing capabilities of VSCode.
-- 🌱 I’m currently learning the underlying implementations of some popular warehouses and getting involved with them.
 - 👯 I want to have some programming partners who fit well. You can reach me at [JUEJIN](https://juejin.cn/user/1218688825432605).
+- 🌱 Some things to do for the long term: Learn the implementations of some repository and get involved, Do something meaningful in coding for the community.
 - ⚡ Fun fact: I try to make it fun.
 
 <!-- just img -->
