@@ -1,11 +1,9 @@
-### 🌈 Fun fact: I try to make things interesting. 
-
 <!--
 **inblossoms/inblossoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h1 align="center"> 
   <a href="#"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Javascript+%26+Node+%26+Web+development++%E2%9C%A8+Day+By+Day+Through+By+Through++%E2%8F%B1%EF%B8%8F+)">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Js+%26+Node+%26+Web+development++%E2%9C%A8+Day+By+Day+Through+By+Through++%E2%8F%B1%EF%B8%8F+)">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E2%9C%A8+Day+By+Day+Through+By+Through++%E2%8F%B1%EF%B8%8F+)">
   </a> 
 </h1>
