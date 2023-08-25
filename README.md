@@ -1,11 +1,12 @@
-### Hi there 👋
+### 🌈 Fun fact: I try to make things interesting. 
 
 <!--
 **inblossoms/inblossoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h1 align="center"> 
   <a href="#"> 
-    <img src="https://readme-typing-svg.herokuapp.com?color=244DF7A9&lines=welcome+to+my+GitHub">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Javascript+%26+Node+%26+Web+development++%E2%9C%A8+Day+By+Day+Through+By+Through++%E2%8F%B1%EF%B8%8F+)">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E2%9C%A8+Day+By+Day+Through+By+Through++%E2%8F%B1%EF%B8%8F+)">
   </a> 
 </h1>
 
@@ -18,9 +19,6 @@
 </p>
 
 - 🔭 I’m currently trying to develop a plugin to enhance the editing capabilities of VSCode.
-- 👯 I want to have some programming partners who fit well. You can reach me at [JUEJIN](https://juejin.cn/user/1218688825432605).
 - 🌱 Some things to do for the long term: Learn the implementations of some repository and get involved, Do something meaningful in coding for the community.
-- ⚡ Fun fact: I try to make it fun.
+ 
 
-<!-- just img -->
-<div align="center"><img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
