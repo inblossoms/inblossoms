@@ -16,7 +16,6 @@
   </samp>
 </p>
 
-- 🔭 I’m currently trying to develop a plugin to enhance the editing capabilities of VSCode.
-- 🌱 Some things to do for the long term: Learn the implementations of some repository and get involved, Do something meaningful in coding for the community.
+- 🌏 I stood before the window and looked at the world outside, marveling how small I was.
  
 
