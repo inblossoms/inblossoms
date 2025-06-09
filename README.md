@@ -3,7 +3,7 @@
 -->
 <h1 align="center"> 
   <a href="#"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Js+%26+Node+%26+Web+development+%E2%9C%A8+">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Rust+%26+Node+%26+Web+development+%E2%9C%A8+">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Day+By+Day+Through+By+Through++%E2%8F%B1%EF%B8%8F+">
   </a> 
 </h1>
